@@ -70,7 +70,7 @@ Senior IT communication officer (2015 – 2016)
 - Developed and maintained IT infrastructure and services according to company needs.
 - Ensured uninterrupted operation and availability of IT services.
 
-[Nord Sipping Company](http://www.ansc.ru/ru/main/mainR.asp) Arkhangelsk, Russia
+##### [Nord Sipping Company](http://www.ansc.ru/ru/main/mainR.asp) Arkhangelsk, Russia
 System Administrator (2011 – 2015)
 
 - Managed AD and maintained IT infrastructure.
