@@ -88,5 +88,4 @@ Software Engineer (2005 – 2011)
 
 - 2019 Microsoft - Querying Data with Transact-SQL (20761)
 - 2016 Microsoft – MTA Networking Fundamentals, MTA Windows Server Administration Fundamentals
-
-Links to organizations and resources:
+  
