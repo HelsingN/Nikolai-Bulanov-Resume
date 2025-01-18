@@ -1,4 +1,4 @@
-### Nikolai Bulanov (35 years)
+### Nikolai Bulanov
 
 Address: Haifa District, Israel
 
@@ -70,13 +70,13 @@ Senior IT communication officer (2015 – 2016)
 - Developed and maintained IT infrastructure and services according to company needs.
 - Ensured uninterrupted operation and availability of IT services.
 
-[Nord Sipping Company](http://www.ansc.ru/ru/main/mainR.asp) Arkhangelsk, Russia
+##### [Nord Sipping Company](http://www.ansc.ru/ru/main/mainR.asp) Arkhangelsk, Russia
 System Administrator (2011 – 2015)
 
 - Managed AD and maintained IT infrastructure.
 - Ensured the uninterrupted operation of servers and configured server systems.
 
-##### Education:
+#### Education:
 
 Higher (M.D.)
 
@@ -88,5 +88,4 @@ Software Engineer (2005 – 2011)
 
 - 2019 Microsoft - Querying Data with Transact-SQL (20761)
 - 2016 Microsoft – MTA Networking Fundamentals, MTA Windows Server Administration Fundamentals
-
-Links to organizations and resources:
+  
