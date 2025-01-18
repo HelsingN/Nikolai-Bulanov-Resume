@@ -42,7 +42,7 @@ Test Technician (02.2024 – present)
 - Identifying and diagnosing technical issues, analyzing system logs and error messages
 - Performing routine maintenance tasks for test equipment and servers
 
-##### [TTM Shipping](https://flot.gazprom.ru/) (offshore company), Pipe lay construction vessel, Germany and Russia
+##### [Tschudi Ship Management AS](https://www.tschudishipmanagement.com/) (offshore company), Pipe lay construction vessel, Germany and Russia
 
 Senior IT Engineer (2020 - 2023)
 
