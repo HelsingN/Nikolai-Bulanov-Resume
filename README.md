@@ -76,7 +76,7 @@ System Administrator (2011 – 2015)
 - Managed AD and maintained IT infrastructure.
 - Ensured the uninterrupted operation of servers and configured server systems.
 
-##### Education:
+#### Education:
 
 Higher (M.D.)
 
