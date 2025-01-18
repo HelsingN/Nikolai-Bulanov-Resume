@@ -1,4 +1,4 @@
-### Nikolai Bulanov (35 years)
+### Nikolai Bulanov
 
 Address: Haifa District, Israel
 
