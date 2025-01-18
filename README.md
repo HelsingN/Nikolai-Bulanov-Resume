@@ -84,7 +84,7 @@ Higher (M.D.)
 
 Software Engineer (2005 – 2011)
 
-[Achievements]([Nikolai-Bulanov-Resume/Achievements at main · HelsingN/Nikolai-Bulanov-Resume · GitHub](https://github.com/HelsingN/Nikolai-Bulanov-Resume/tree/main/Achievements)):
+[Achievements](https://github.com/HelsingN/Nikolai-Bulanov-Resume/tree/main/Achievements):
 
 - 2019 Microsoft - Querying Data with Transact-SQL (20761)
 - 2016 Microsoft – MTA Networking Fundamentals, MTA Windows Server Administration Fundamentals
