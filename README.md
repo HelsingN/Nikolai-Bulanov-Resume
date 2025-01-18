@@ -10,27 +10,27 @@ LinkedIn: [Nikolai Bulanov](https://www.linkedin.com/in/nikolai-bulanov/)
 
 Interested in positions: System Administrator / Network Engineer
 
-##### Technical Skills:
+#### Technical Skills:
 
 - Expert knowledge of Windows and Linux server deployment and administration
 - Experience in network design, security, troubleshooting and monitoring.
 - Experience in management ERP, MES, and SCADA systems.
 - Programming languages: Python, C#, PowerShell, Bash, VBA, SQL/T-SQL
 
-###### Languages:
+##### Languages:
 
 - Hebrew — Elementary
 - English — Intermediate (B2)
 - Russian — Native
 
-###### Keywords: Window Servers, Linux Servers, Virtualization, VMware,
+##### Keywords: Window Servers, Linux Servers, Virtualization, VMware,
 Hyper-V, Cluster, AD, DNS, DHCP, NAT, IIS, VPN, PXE, Cisco, Zabbix,
 Grafana, Veeam Backup, Ansible, Docker, MES, SCADA, ERP, Git, SQL,
 T-SQL, Python, C#, VBA, Bash, PowerShell
 
 Work experience — over 13 years
 
-###### [Flextronics](https://flex.com/) (electronics manufacturing), North District, Israel
+##### [Flextronics](https://flex.com/) (electronics manufacturing), North District, Israel
 
 Test Technician (02.2024 – present)
 
@@ -41,7 +41,7 @@ Test Technician (02.2024 – present)
 - Identifying and diagnosing technical issues, analyzing system logs and error messages
 - Performing routine maintenance tasks for test equipment and servers
 
-###### [TTM Shipping](https://flot.gazprom.ru/) (offshore company), Pipe lay construction vessel, Germany and Russia
+##### [TTM Shipping](https://flot.gazprom.ru/) (offshore company), Pipe lay construction vessel, Germany and Russia
 
 Senior IT Engineer (2020 - 2023)
 
@@ -51,7 +51,7 @@ Senior IT Engineer (2020 - 2023)
 - Backup systems, services, and data (Veeam Backup) and monitoring (Zabbix).
 - Implemented and maintained: ERP(TM Master), SCADA-base systems, AVEVA Historian, VSAT, CCTV, etc.
 
-###### [GS Nanotech](https://gsnanotech.ru/) (microelectronics manufacturing), Kaliningrad, Russia
+##### [GS Nanotech](https://gsnanotech.ru/) (microelectronics manufacturing), Kaliningrad, Russia
 
 Senior MES Engineer (2016 – 2020)
 
@@ -61,7 +61,7 @@ Senior MES Engineer (2016 – 2020)
 - Wrote SQL queries, stored procedures, and generated reports.
 - Performed user training and provided technical support.
 
-###### [MRTS](https://mrts.ru/en/) (offshore construction company), Arkhangelsk, Russia
+##### [MRTS](https://mrts.ru/en/) (offshore construction company), Arkhangelsk, Russia
 
 Senior IT communication officer (2015 – 2016)
 
