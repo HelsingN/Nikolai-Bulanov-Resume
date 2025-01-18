@@ -23,7 +23,8 @@ Interested in positions: System Administrator / Network Engineer
 - English — Intermediate (B2)
 - Russian — Native
 
-##### Keywords: Window Servers, Linux Servers, Virtualization, VMware,
+##### Keywords: 
+Window Servers, Linux Servers, Virtualization, VMware,
 Hyper-V, Cluster, AD, DNS, DHCP, NAT, IIS, VPN, PXE, Cisco, Zabbix,
 Grafana, Veeam Backup, Ansible, Docker, MES, SCADA, ERP, Git, SQL,
 T-SQL, Python, C#, VBA, Bash, PowerShell
