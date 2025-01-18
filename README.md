@@ -6,7 +6,7 @@ Phone, Telegram, WhatsApp: +972 557731613
 
 E-mail: [dbnavh@gmail.com](mailto:dbnavh@gmail.com)
 
-LinkedIn: [Nikolai Bulanov LinkedIn Profile](https://www.linkedin.com/in/nikolai-bulanov/)
+LinkedIn: [Nikolai Bulanov](https://www.linkedin.com/in/nikolai-bulanov/)
 
 Interested in positions: System Administrator / Network Engineer
 
