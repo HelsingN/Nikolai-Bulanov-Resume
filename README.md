@@ -19,15 +19,15 @@ Interested in positions: System Administrator / Network Engineer
 
 ##### Languages:
 
+- English — Upper Intermediate (B2)
 - Hebrew — Elementary
-- English — Intermediate (B2)
 - Russian — Native
 
 ##### Keywords: 
 Window Servers, Linux Servers, Virtualization, VMware,
 Hyper-V, Cluster, AD, DNS, DHCP, NAT, IIS, VPN, PXE, Cisco, Zabbix,
-Grafana, Veeam Backup, Ansible, Docker, MES, SCADA, ERP, Git, SQL,
-T-SQL, Python, C#, VBA, Bash, PowerShell
+Grafana, Veeam Backup, Ansible, Docker, MES, SCADA, ERP, Git, n8n,
+SQL, T-SQL, Python, C#, VBA, Bash, PowerShell
 
 Work experience — over 13 years
 
@@ -64,14 +64,14 @@ Senior MES Engineer (2016 – 2020)
 
 ##### [MRTS](https://mrts.ru/en/) (offshore construction company), Arkhangelsk, Russia
 
-Senior IT communication officer (2015 – 2016)
+Senior IT communication officer (2014 – 2016)
 
 - Managed of IT team (3 IT engineers).
 - Developed and maintained IT infrastructure and services according to company needs.
 - Ensured uninterrupted operation and availability of IT services.
 
 ##### [Nord Sipping Company](http://www.ansc.ru/ru/main/mainR.asp) Arkhangelsk, Russia
-System Administrator (2011 – 2015)
+System Administrator (2011 – 2014)
 
 - Managed AD and maintained IT infrastructure.
 - Ensured the uninterrupted operation of servers and configured server systems.
