@@ -1,4 +1,4 @@
-### Nikolai Bulanov
+### Nikolay Bulanov
 
 Address: Haifa District, Israel
 
