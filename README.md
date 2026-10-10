@@ -23,6 +23,7 @@ IT infrastructure professional with 14+ years of experience in system administra
 ## Professional Experience
 
 ### Test Infrastructure Engineer | Flex, North District, Israel
+
 **Feb 2024 - Present**
 
 - Maintain and troubleshoot approximately 300 RHEL/Linux-based functional test stations supporting NVIDIA AI and UFM servers, InfiniBand switches, DGX systems, BlueField-3 DPUs.
@@ -30,23 +31,27 @@ IT infrastructure professional with 14+ years of experience in system administra
 - Developed Python and Bash automation and monitoring tools that reduced manual work by approximately 30%.
 
 ### Senior IT Engineer | Tschudi Ship Management, Germany and Russia
+
 **2020 - 2023**
 
 - Led IT modernization for offshore vessels and managed Windows/Linux servers, VMware ESXi, storage, Cisco networks, backups and business-critical onboard services.
 - Improved service reliability through Veeam backup automation and Zabbix monitoring; supported SCADA systems and AVEVA Historian.
 
 ### Senior MES Engineer | GS Nanotech, Kaliningrad, Russia
+
 **2016 - 2020**
 
 - Supported and administered the business-critical cmNAVIGO MES application, database and storage services in a high-availability Hyper-V environment.
 - Developed C# utilities and SQL/T-SQL stored procedures for data processing, reporting, system integration and equipment connectivity.
 
 ### Lead IT Communications Officer | MRTS, Arkhangelsk, Russia
+
 **2014 - 2016**
 
 - Led a team of three engineers, maintained 99.9% uptime and deployed a three-blade VMware ESXi cluster with shared storage and Cisco networking.
 
 ### System Administrator | Northern Shipping Company, Arkhangelsk, Russia
+
 **2011 - 2014**
 
 - Administered Windows Server, Active Directory, Group Policy, networks and business services for more than 350 users.
