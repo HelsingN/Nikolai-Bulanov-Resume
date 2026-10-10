@@ -1,90 +1,70 @@
-### Nikolay Bulanov
+# Nikolai Bulanov
 
-Address: Haifa District, Israel
+**Senior Linux System Administrator**
 
-Phone, Telegram, WhatsApp: +972 557731613
+Haifa, Israel | +972 55 773 1613 | [dbnavh@gmail.com](mailto:dbnavh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nikolai-bulanov/)
 
-E-mail: [dbnavh@gmail.com](mailto:dbnavh@gmail.com)
+[Download PDF resume](Nikolai_Bulanov.pdf)
 
-LinkedIn: [Nikolai Bulanov](https://www.linkedin.com/in/nikolai-bulanov/)
+## Professional Summary
 
-#### Target Position:
+IT infrastructure professional with 14+ years of experience in system administration, enterprise infrastructure and operational support. Hands-on experience with RHEL/Linux, laboratory test infrastructure and NVIDIA hardware. Strong in system and network troubleshooting, monitoring, and automation with Python and Bash.
 
-Senior System Administrator | Automation Engineer (open to relocation/remote)
+## Core Skills
 
-#### Summary:
+- **Linux and Systems:** RHEL, Ubuntu, Debian; Windows Server, AD, GPO, DNS, DHCP
+- **Automation and Tools:** Python, Bash, PowerShell, Git, GitHub Actions, Jenkins (basic familiarity)
+- **Monitoring and Diagnostics:** Zabbix, Prometheus, Grafana; system, service and log troubleshooting
+- **Virtualization and Backup:** VMware vSphere/ESXi, Hyper-V, Docker, Veeam
+- **Hardware and Storage:** Dell, HP, Supermicro, IBM; RAID, SAN, PXE, BMC/IPMI and hardware diagnostics
+- **Networking:** Cisco, HP, Aruba, Ubiquiti, Fortinet, Check Point; L2/L3, VLAN, LACP, VPN, NAT, OSPF, Wi-Fi, WLC
+- **Databases:** SQL, Oracle, MySQL, SQLite
 
-Experienced IT professional with over 12 years in Windows/Linux server administration, network design, DevOps and automation. Optimizing processes with Python/Bash scripts and software engineering, building monitoring systems.
+## Professional Experience
 
-#### Technical Skills:
+### Test Infrastructure Engineer | Flex, North District, Israel
+**Feb 2024 - Present**
 
-- OS & Infrastructure: Windows Server (AD, GPO), Linux Server (RHEL, Ubuntu, Debian)
-- Virtualization & Containers: VMware vSphere, Hyper-V, Docker
-- Automation & Software Engineering: Ansible, n8n, Bash, PowerShell, Python, C#, VBA, Git/GitHub
-- Monitoring & Backup: Zabbix, Prometheus, Grafana, Veeam Backup
-- Networking: Cisco (L2/L3 switching), Fortinet/Check Point (Firewalls), VLANs DNS, DHCP, NAT, LACP, VPN
-- Databases: MS SQL/T-SQL
+- Maintain and troubleshoot approximately 300 RHEL/Linux-based functional test stations supporting NVIDIA AI and UFM servers, InfiniBand switches, DGX systems, BlueField-3 DPUs.
+- Diagnose OS, application, network, PXE, BMC/IPMI, hardware and firmware issues using system and test logs; perform validation and verification after corrective actions.
+- Developed Python and Bash automation and monitoring tools that reduced manual work by approximately 30%.
 
-##### Languages:
+### Senior IT Engineer | Tschudi Ship Management, Germany and Russia
+**2020 - 2023**
 
-- English — Upper Intermediate (B2)
-- Hebrew — Elementary
-- Russian — Native
+- Led IT modernization for offshore vessels and managed Windows/Linux servers, VMware ESXi, storage, Cisco networks, backups and business-critical onboard services.
+- Improved service reliability through Veeam backup automation and Zabbix monitoring; supported SCADA systems and AVEVA Historian.
 
-##### [Flextronics](https://flex.com/) (electronics manufacturing), North District, Israel
+### Senior MES Engineer | GS Nanotech, Kaliningrad, Russia
+**2016 - 2020**
 
-Test Technician (02.2024 – present)
+- Supported and administered the business-critical cmNAVIGO MES application, database and storage services in a high-availability Hyper-V environment.
+- Developed C# utilities and SQL/T-SQL stored procedures for data processing, reporting, system integration and equipment connectivity.
 
-- Maintenance and troubleshooting functional test stations at Nvidia Switching Project (Mass Production Line) to prevent breakdowns and improve reliability.
-- Installing and configuring Linux-based systems (PXE).
-- Implementing scripts in Python and Bash for automation tasks reducing manual tasks by 30%.
-- Identifying and diagnosing technical issues, analyzing system logs and error messages.
+### Lead IT Communications Officer | MRTS, Arkhangelsk, Russia
+**2014 - 2016**
 
-##### [Tschudi Ship Management AS](https://www.tschudishipmanagement.com/) (offshore company), Pipe lay construction vessel, Germany and Russia
+- Led a team of three engineers, maintained 99.9% uptime and deployed a three-blade VMware ESXi cluster with shared storage and Cisco networking.
 
-Senior IT Engineer (2020 - 2023)
+### System Administrator | Northern Shipping Company, Arkhangelsk, Russia
+**2011 - 2014**
 
-- Led IT modernization on vessels for the “Nord Stream 2” project and future projects.
-- Managed networks, server virtualization infrastructure, and all IT vessel equipment.
-- Improved cybersecurity by setting up firewall policy and strong malware protection.
-- Increased reliability by automating backups with Veeam and implemented monitoring system Zabbix.
-- Implemented and maintained: ERP(TM Master), SCADA-base systems, AVEVA Historian, VSAT, CCTV.
+- Administered Windows Server, Active Directory, Group Policy, networks and business services for more than 350 users.
 
-##### [GS Nanotech](https://gsnanotech.ru/) (microelectronics manufacturing), Kaliningrad, Russia
+## Education
 
-Senior MES Engineer (2016 – 2020)
+**Northern Arctic Federal University**  
+Information Systems and Technology Engineer | 2005 - 2011
 
-- Supported and maintained the MES system “cmNAVIGO” - for microelectronics manufacturing.
-- Built custom software with C# to meet company needs.
-- Created SQL reports and procedures, saving time for the team.
-- Integrated systems and equipment to keep production running smoothly.
+## Certifications
 
-##### [MRTS](https://mrts.ru/en/) (offshore construction company), Arkhangelsk, Russia
-
-Senior IT communication officer (2014 – 2016)
-
-- Supervised a team of 3 engineers: planned tasks, enforced SLAs, and coordinated system upgrades
-- Achieved 99.9% uptime for critical services (mail, file sharing, VoIP).
-- Designed and deployed Cisco network topology (VLAN segmentation, trunking)
-- Configured a 3‐blade ESXi host cluster with shared storage for VDI.
-
-##### [Northern Sipping Company](http://www.ansc.ru/en/main/mainE.asp) Arkhangelsk, Russia
-
-System Administrator (2011 – 2014)
-
-- Managed AD and GPO, maintained IT infrastructure, users support (350+ users).
-- Ensured the uninterrupted operation of servers and configured server systems.
-
-#### Education:
-
-Higher (Master of Science)
-
-[Northern (Arctic) Federal University](https://narfu.ru/en), Institute of Information Technology
-
-Software Engineer (2005 – 2011)
-
-[Achievements](https://github.com/HelsingN/Nikolai-Bulanov-Resume/tree/main/Achievements):
-
-- Microsoft: [Querying Data with Transact-SQL](https://github.com/HelsingN/Nikolai-Bulanov-Resume/blob/main/Achievements/Certificate_Querying_Data_with_Transact-SQL_(20761).pdf) (Exam 70-761), 2019
+- Microsoft: [Querying Data with Transact-SQL (Exam 70-761)](https://github.com/HelsingN/Nikolai-Bulanov-Resume/blob/main/Achievements/Certificate_Querying_Data_with_Transact-SQL_(20761).pdf), 2019
 - Microsoft: [MTA Networking Fundamentals](https://github.com/HelsingN/Nikolai-Bulanov-Resume/blob/main/Achievements/Certificate_MTA_Networking_Fundamentls.pdf), 2016
 - Microsoft: [MTA Windows Server Administration Fundamentals](https://github.com/HelsingN/Nikolai-Bulanov-Resume/blob/main/Achievements/Certificate_Certificate_MTA_Windows_Server_Administration_Fundamentals.pdf), 2016
+- Cisco: Certified Network Associate (CCNA) - In Progress
+
+## Languages
+
+- English B2
+- Hebrew A2
+- Russian Native
